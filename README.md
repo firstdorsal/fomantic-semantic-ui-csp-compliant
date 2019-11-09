@@ -9,4 +9,8 @@ and the latest features such as **sliders** and **toasts**
 Based on  [Fomantic-UI 2.7](https://fomantic-ui.com/introduction/new.html)
 
 
+Inline data is replaced with files in cspA
+
+Removed link to Lato font served over fonts.google.com
+
 
